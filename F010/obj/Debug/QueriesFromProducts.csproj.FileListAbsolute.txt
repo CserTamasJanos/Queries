@@ -1,0 +1,13 @@
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\F010\bin\Debug\Operations.dll
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\F010\bin\Debug\Operations.pdb
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\F010\obj\Debug\QueriesFromProducts.csprojAssemblyReference.cache
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\F010\obj\Debug\F010.QueriesFromProducts.resources
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\F010\obj\Debug\QueriesFromProducts.csproj.GenerateResource.cache
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\F010\obj\Debug\QueriesFromProducts.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\F010\obj\Debug\QueriesFromProducts.csproj.CopyComplete
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\F010\bin\Debug\QueriesFromProducts.exe.config
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\F010\bin\Debug\QueriesFromProducts.exe
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\F010\bin\Debug\QueriesFromProducts.pdb
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\F010\obj\Debug\QueriesFromProducts.Properties.Resources.resources
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\F010\obj\Debug\QueriesFromProducts.exe
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\F010\obj\Debug\QueriesFromProducts.pdb

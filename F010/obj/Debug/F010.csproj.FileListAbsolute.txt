@@ -1,0 +1,37 @@
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\bin\Debug\F010.exe.config
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\bin\Debug\F010.exe
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\bin\Debug\F010.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\bin\Debug\Operations.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\bin\Debug\Operations.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\obj\Debug\F010.csprojResolveAssemblyReference.cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\obj\Debug\F009.F010.resources
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\obj\Debug\F010.Properties.Resources.resources
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\obj\Debug\F010.csproj.GenerateResource.Cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\obj\Debug\F010.exe
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\obj\Debug\F010.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\F010\bin\Debug\F010.exe.config
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\F010\obj\Debug\F010.exe
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\F010\obj\Debug\F010.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\F010\bin\Debug\F010.exe
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\F010\bin\Debug\F010.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\F010\bin\Debug\Operations.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\F010\bin\Debug\Operations.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\F010\obj\Debug\F010.Properties.Resources.resources
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\F010\obj\Debug\F010.csproj.GenerateResource.Cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\F010\obj\Debug\F010.F010.resources
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\F010\obj\Debug\F010.csprojAssemblyReference.cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\F010\obj\Debug\F010.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\F010\obj\Debug\F010.csproj.CopyComplete
+C:\VisualStudioProjects\F010\F010\bin\Debug\F010.exe.config
+C:\VisualStudioProjects\F010\F010\bin\Debug\F010.exe
+C:\VisualStudioProjects\F010\F010\bin\Debug\F010.pdb
+C:\VisualStudioProjects\F010\F010\bin\Debug\Operations.dll
+C:\VisualStudioProjects\F010\F010\bin\Debug\Operations.pdb
+C:\VisualStudioProjects\F010\F010\obj\Debug\F010.csprojAssemblyReference.cache
+C:\VisualStudioProjects\F010\F010\obj\Debug\F010.F010.resources
+C:\VisualStudioProjects\F010\F010\obj\Debug\F010.Properties.Resources.resources
+C:\VisualStudioProjects\F010\F010\obj\Debug\F010.csproj.GenerateResource.cache
+C:\VisualStudioProjects\F010\F010\obj\Debug\F010.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\F010\F010\obj\Debug\F010.csproj.CopyComplete
+C:\VisualStudioProjects\F010\F010\obj\Debug\F010.exe
+C:\VisualStudioProjects\F010\F010\obj\Debug\F010.pdb

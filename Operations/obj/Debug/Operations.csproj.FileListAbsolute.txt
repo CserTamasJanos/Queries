@@ -1,0 +1,22 @@
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\Operations\bin\Debug\Operations.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\Operations\obj\Debug\Operations.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\Operations\obj\Debug\Operations.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\Operations\bin\Debug\Operations.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\Operations\bin\Debug\Operations.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\Operations\obj\Debug\Operations.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\Operations\obj\Debug\Operations.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\Operations\bin\Debug\Operations.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\Operations\obj\Debug\Operations.csprojAssemblyReference.cache
+C:\VisualStudioProjects\F010\Operations\bin\Debug\Operations.dll
+C:\VisualStudioProjects\F010\Operations\bin\Debug\Operations.pdb
+C:\VisualStudioProjects\F010\Operations\obj\Debug\Operations.csprojAssemblyReference.cache
+C:\VisualStudioProjects\F010\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\F010\Operations\obj\Debug\Operations.dll
+C:\VisualStudioProjects\F010\Operations\obj\Debug\Operations.pdb
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\Operations\bin\Debug\Operations.dll
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\Operations\bin\Debug\Operations.pdb
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\Operations\obj\Debug\Operations.csprojAssemblyReference.cache
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\Operations\obj\Debug\Operations.dll
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Queries\Operations\obj\Debug\Operations.pdb

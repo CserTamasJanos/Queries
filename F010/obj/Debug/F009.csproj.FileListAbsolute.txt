@@ -1,0 +1,11 @@
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\bin\Debug\F009.exe.config
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\bin\Debug\F009.exe
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\bin\Debug\F009.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\bin\Debug\Operations.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\bin\Debug\Operations.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\obj\Debug\F009.csprojResolveAssemblyReference.cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\obj\Debug\F009.Properties.Resources.resources
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\obj\Debug\F009.csproj.GenerateResource.Cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\obj\Debug\F009.exe
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\obj\Debug\F009.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\F009\obj\Debug\F009.F009.resources
